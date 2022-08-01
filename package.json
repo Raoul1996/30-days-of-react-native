@@ -9,7 +9,7 @@
   "dependencies": {
     "clamp": "^1.0.1",
     "fuzzy": "^0.1.1",
-    "react-native": "^0.21.0",
+    "react-native": "^0.60.0",
     "react-native-blur": "^0.7.10",
     "react-native-chart": "^0.1.12",
     "react-native-loading-spinner-overlay": "0.0.8",
